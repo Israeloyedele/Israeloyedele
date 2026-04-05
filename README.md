@@ -1,17 +1,17 @@
 <h1 align="left">Hi 👋, I'm Israel Oyedele</h1>
-<h3 align="left">I'm from Nigeria, I write code 💻 and write to explain code to those who code and those who don't.</h3>
+<h5 align="left">I'm from Nigeria, I write code 💻 and write to explain code to those who code and those who don't.</h5>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/131530863" alt="israeloyedele" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 👨‍💻 All of my projects are available at [israeloyedele.com](israeloyedele.com)
+- 👨‍💻 All of my projects are available at [israeloyedele.com](https://israeloyedele.com)
 
-- 📝 I regularly write articles on [blog.israeloyedele.com](blog.israeloyedele.com)
+- 📝 I regularly write articles on [blog.israeloyedele.com](https://blog.israeloyedele.com)
 
 - 📫 How to reach me **55ej183doc@gmail.com**
 
-- 📄 Know about my experiences [israeloyedele.com](israeloyedele.com)
+- 📄 Know about my experiences [israeloyedele.com](https://israeloyedele.com)
 
-- ⚡ Fun fact **I think I'm Funny**
+- ⚡ Fun fact:  **I think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
