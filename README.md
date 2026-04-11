@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [blog.israeloyedele.com](https://blog.israeloyedele.com)
 
-- 📫 How to reach me **55ej183doc@gmail.com**
+- 📫 How to reach me **contact@israeloyedele.com**
 
 - 📄 Know about my experiences [israeloyedele.com](https://israeloyedele.com)
 
